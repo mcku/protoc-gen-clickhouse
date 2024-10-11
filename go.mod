@@ -1,4 +1,4 @@
-module protoc-gen-clickhouse
+module "github.com/mcku/protoc-gen-clickhouse"
 
 go 1.22.5
 
